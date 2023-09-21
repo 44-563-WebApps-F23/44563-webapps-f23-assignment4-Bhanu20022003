@@ -23,4 +23,26 @@
 .DrStockmann {
     color: rgb(50, 11, 226)
 }
-
+.EnemyAct {
+    border: 1px solid;
+    border-collapse: collapse;
+    margin:1px;
+  }
+  
+  .EnemyAct th {
+    text-align: center; 
+    padding: 10px;
+  }
+  
+  .EnemyAct td {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .EnemyAct tr:nth-child(even) {
+    background-color: #aec5c1;
+  }
+  
+  .EnemyAct tr:hover {
+    background-color: #189054;
+  }
