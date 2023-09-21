@@ -12,15 +12,15 @@
 }
 
 .direction:hover {
-    background-color: white;
-    color: black;
+    background-color: rgb(124, 26, 26);
+    color: rgb(0, 0, 0);
 }
 
-.Mrs. Stockmann. {
-    color: blue;
+.MrsStockmann {
+    color: rgb(46, 190, 101);
 }
 
-.Dr. Stockmann. {
-    color: green
+.DrStockmann {
+    color: rgb(200, 98, 211)
 }
 
