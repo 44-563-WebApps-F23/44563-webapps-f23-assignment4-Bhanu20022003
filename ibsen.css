@@ -1,26 +1,26 @@
 .speech {
     font-family: Arial, sans-serif;
     font-size: 16px;
-    color: black;
+    color: rgb(75, 112, 157);
 }
 
 .direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
-    color: black;
-    background-color: lightgray;
+    color: rgb(161, 73, 145);
+    background-color: rgb(136, 127, 177);
 }
 
 .direction:hover {
-    background-color: rgb(124, 26, 26);
-    color: rgb(0, 0, 0);
+    background-color: rgb(105, 127, 166);
+    color: rgb(156, 64, 64);
 }
 
 .MrsStockmann {
-    color: rgb(46, 190, 101);
+    color: rgb(31, 184, 158);
 }
 
 .DrStockmann {
-    color: rgb(200, 98, 211)
+    color: rgb(64, 63, 22)
 }
 
