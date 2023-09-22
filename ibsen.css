@@ -52,14 +52,23 @@
   .MrsStockmann:hover {
     box-shadow: 0 0 6px rgba(13, 3, 3, 0.5);
     border: 2px rgb(147, 180, 26);
+    border-style: dotted;
+    text-shadow: 3px 3px 5px rgb(88, 88, 141);
+    filter: blur(0.5px);
   }
   .DrStockmann:hover{
     box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
     border: 2px rgb(133, 64, 64);
+    text-shadow: 3px 3px 5px blueviolet;
+    filter: blur(0.5px);
+    border-style: inset;
   }
   .mortenkiil:hover{
     box-shadow: 0 0 6px rgba(244, 114, 114, 0.5);
     border: 2px rgb(96, 42, 42);
+    border-style: dotted;
+    text-shadow: 3px 3px 5px blue;
+    filter: blur(0.5px);
   }
 
   
@@ -72,7 +81,7 @@ ul.navbar-horizontal {
   ul.navbar-horizontal li {
   float:left; /* line up horizontally */
   color:#000;
-  background-color:antiquewhite
+  background-color:aquamarine
   }
   ul.navbar-horizontal a {
   display:block;
