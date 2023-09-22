@@ -61,3 +61,21 @@
     box-shadow: 0 0 6px rgba(244, 114, 114, 0.5);
     border: 2px rgb(96, 42, 42);
   }
+
+  
+ul.navbar-horizontal {
+  /* remove these */
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+  ul.navbar-horizontal li {
+  float:left; /* line up horizontally */
+  color:#000;
+  background-color:antiquewhite
+  }
+  ul.navbar-horizontal a {
+  display:block;
+  padding:8px
+  }
+  
